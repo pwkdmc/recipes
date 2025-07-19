@@ -1,1 +1,1 @@
-# odin-recipes
+The created website demonstrates the initial HTML skills acquired during the TOP.
