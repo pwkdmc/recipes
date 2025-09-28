@@ -1,1 +1,1 @@
-The created website demonstrates the initial HTML skills acquired during the TOP.
+The project shows basic css and html skills
