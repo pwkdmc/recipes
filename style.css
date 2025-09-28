@@ -1,0 +1,75 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 50px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+.list_of_recipes {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.list_of_recipes_el {
+    color: black;
+    text-decoration: none;
+}
+
+.list_of_recipes_el:hover {
+    color: rgb(246, 88, 114);
+}
+
+.button_home {
+    display: inline-block;
+    background-color: rgb(181, 181, 181);
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.button_home:hover {
+    color: rgb(246, 88, 114);
+}
+
+.dish_name {
+    font-size: 50px;
+    margin-left: 13px;
+    margin-bottom: 10px;
+}
+
+.description h3 {
+    margin: 10px 0 10px 20px;
+}
+
+.description p {
+    margin-left: 5px;
+}
+
+.description ul {
+    margin-left: 25px;
+}
+
+.description ol {
+    margin-left: 35px;
+}
+
+@media (min-width:800px) {
+    .description {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+    }
+}
+
+img {
+    margin-left: 13px;
+}
