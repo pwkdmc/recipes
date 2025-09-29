@@ -51,15 +51,15 @@
 }
 
 .description p {
-    margin-left: 5px;
+    margin-left: 20px;
 }
 
 .description ul {
-    margin-left: 25px;
+    margin-left: 35px;
 }
 
 .description ol {
-    margin-left: 35px;
+    margin-left: 46px;
 }
 
 @media (min-width:800px) {
