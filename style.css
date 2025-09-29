@@ -46,10 +46,6 @@
     margin-bottom: 10px;
 }
 
-.description {
-    display: inline-block;
-}
-
 .description h3 {
     margin: 10px 0 10px 20px;
 }
@@ -66,7 +62,7 @@
     margin-left: 46px;
 }
 
-@media (min-width:800px) {
+@media (min-width:846px) {
     .description {
         vertical-align: top;
         width: 50%;
