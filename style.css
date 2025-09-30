@@ -64,7 +64,7 @@ img {
 
 @media (min-width:800px) {
     .description {
-        position: fixed;
+        position: absolute;
         display: inline-block;
         vertical-align: top;
         left: 413px;
