@@ -67,10 +67,11 @@ img {
         position: absolute;
         display: inline-block;
         vertical-align: top;
-        left: 420px;
+        left: 413px;
     }
 
     img {
+        position: relative;
         display: inline;
     }
 }
